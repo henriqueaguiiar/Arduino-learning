@@ -1,4 +1,4 @@
-# arduino-plays
+#Arduino Learning
 
 ### This repository is of some projects, study, learning and development of embedded systems projects using Microcontrollers and Arduinos.
 For testing, you need:
